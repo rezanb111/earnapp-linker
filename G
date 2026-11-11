@@ -1,0 +1,201 @@
+curl 'https://4nayz.online/' \
+  -H 'authority: 4nayz.online' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: fa-IR,fa;q=0.9,en-US;q=0.8,en;q=0.7' \
+  -H 'cookie: cf_clearance=Cqvr7KYANBKQsKga-ymELaIvr8M1BH-7riYUPYdhAJ095YkkAdWhwF0gbicm96f2QILaAGpdwBuw1gEgKRFJgSNZoofEeKbSG8-NawwkihZahdAfHtc3d6wKFb2uSD487y-DBQjnVAaHlG7o8KsNxPJ4bD7E9Ht5l-GlK2RCqk1G65yWogQ0Mw5Xy2f0_pt9BNGUXyaxkoVmlstZJI6PBVWdBDiS8InWAvr0ceIPcu0lSEWNK85sgW8nN5_B8mxEKrgKzqAxbYiY6yoi0Vaf9dHOYaQRKFxSytnWmX6gTGmDwuKqmz1VI7FLktije1yCVp9nvf9eIhyTjKJWzGLUJxbZAqzx8znmc4iA-4qPGnpZtnpCcCrC-_8sAg; PHPSESSID=44ib4bajkgdnnuthbuckdrf5i3' \
+  -H 'dnt: 1' \
+  -H 'referer: https://4nayz.online/admin/login.php' \
+  -H 'sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"' \
+  -H 'sec-ch-ua-arch: ""' \
+  -H 'sec-ch-ua-bitness: ""' \
+  -H 'sec-ch-ua-full-version: "137.0.7337.0"' \
+  -H 'sec-ch-ua-full-version-list: "Chromium";v="137.0.7337.0", "Not/A)Brand";v="24.0.0.0"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-model: "24117RN76G"' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  -H 'sec-ch-ua-platform-version: "16.0.0"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36' \
+  --compressed ;
+curl 'https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Rajdhani:wght@400;500;600;700&family=Exo+2:wght@300;400;500;600;700;800&display=swap' \
+  -H 'sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"' \
+  -H 'Referer: https://4nayz.online/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  --compressed ;
+curl 'https://4nayz.online/assets/css/style.css' \
+  -H 'sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-arch: ""' \
+  -H 'sec-ch-ua-full-version: "137.0.7337.0"' \
+  -H 'sec-ch-ua-platform-version: "16.0.0"' \
+  -H 'Referer: https://4nayz.online/' \
+  -H 'sec-ch-ua-full-version-list: "Chromium";v="137.0.7337.0", "Not/A)Brand";v="24.0.0.0"' \
+  -H 'sec-ch-ua-bitness: ""' \
+  -H 'sec-ch-ua-model: "24117RN76G"' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  --compressed ;
+curl 'https://lh3.googleusercontent.com/a/ACg8ocJCZ5vA-JA9mqwW1abeCpDlALssW8CIxFDvCZCWzmbL_DmdzqU=s96-c' \
+  -H 'sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"' \
+  -H 'Referer: https://4nayz.online/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  --compressed ;
+curl 'https://kick.com/favicon.ico' \
+  -H 'sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"' \
+  -H 'Referer: https://4nayz.online/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  --compressed ;
+curl 'https://4nayz.online/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js' \
+  -H 'sec-ch-ua: "Chromium";v="137", "Not/A)Brand";v="24"' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-arch: ""' \
+  -H 'sec-ch-ua-full-version: "137.0.7337.0"' \
+  -H 'sec-ch-ua-platform-version: "16.0.0"' \
+  -H 'Referer: https://4nayz.online/' \
+  -H 'sec-ch-ua-full-version-list: "Chromium";v="137.0.7337.0", "Not/A)Brand";v="24.0.0.0"' \
+  -H 'sec-ch-ua-bitness: ""' \
+  -H 'sec-ch-ua-model: "24117RN76G"' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/rajdhani/v17/LDIxapCSOBg7S-QT7p4HM-aGW-rO.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pbYF_OreefkkbIx.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pa8FvOreefkkbIx.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYmK-4W4nIppT4.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/exo2/v26/7cHmv4okm5zmbtYoK-4W4nIp.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtqUYLknw.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/rajdhani/v17/LDIxapCSOBg7S-QT7p4HM-aGW-rO.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pbYF_OreefkkbIx.woff2' \
+  -H 'Referer;' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pa8FvOreefkkbIx.woff2' \
+  -H 'Referer;' \
+  --compressed
